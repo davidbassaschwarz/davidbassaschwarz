@@ -36,8 +36,8 @@ Actualmente soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)
 ---
 
 ### 🏆 Coding Challenges / Retos de Código
-- **CodeWars:** I solve algorithmic challenges to sharpen my logic. [View my profile]((https://www.codewars.com/users/DavidBassa))
-- **CodeWars:** *Resuelvo retos de algoritmos para pulir mi lógica. [Ver mi perfil]((https://www.codewars.com/users/DavidBassa))
+- **CodeWars:** I solve algorithmic challenges to sharpen my logic. [View my profile](https://www.codewars.com/users/DavidBassa)
+- **CodeWars:** *Resuelvo retos de algoritmos para pulir mi lógica. [Ver mi perfil](https://www.codewars.com/users/DavidBassa)
 
 ---
 
