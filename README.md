@@ -29,16 +29,15 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 - 🌱 **Improving:** Clean Code practices and Database Optimization.
 - 💬 **Ask me about:** My progress in DAM or my latest coding challenges.
 
-- 🔭 **Aprendiendo actualmente:** Java básico y desarrollo de webs.
-- 🌱 **Mejorando:** Prácticas de Clean Code y optimización de Bases de Datos.
-- 💬 **Pregúntame sobre:** Mi progreso en DAM o mis últimos retos de programación.*
+* - 🔭 **Aprendiendo actualmente:** Java básico y desarrollo de webs.
+* - 🌱 **Mejorando:** Prácticas de Clean Code y optimización de Bases de Datos.
+* - 💬 **Pregúntame sobre:** Mi progreso en DAM o mis últimos retos de programación.*
 
 ---
 
 ### 🏆 Coding Challenges / Retos de Código
-- **Codewars:** I solve algorithmic challenges to sharpen my logic. [View my profile]([https://www.codewars.com/users/TU_USUARIO](https://www.codewars.com/users/DavidBassa))
+- [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](#) I solve algorithmic challenges to sharpen my logic. [View my profile]([https://www.codewars.com/users/TU_USUARIO](https://www.codewars.com/users/DavidBassa))
 - *Resuelvo retos de algoritmos para pulir mi lógica. [Ver mi perfil]([https://www.codewars.com/users/TU_USUARIO](https://www.codewars.com/users/DavidBassa))*
-[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](#)
 
 ---
 
