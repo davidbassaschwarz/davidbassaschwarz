@@ -49,7 +49,7 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 
 ### 📫 Connect with me / Contacto
 
-- **LinkedIn:** [Tu enlace de LinkedIn aquí]
+- **LinkedIn:** [linkedin.com/in/davidbassaschwarz](https://www.linkedin.com/in/davidbassaschwarz/)
 - **Email:** davidbassaschwarz@icloud.com
 
 ---
