@@ -36,8 +36,8 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 ---
 
 ### 🏆 Coding Challenges / Retos de Código
-- [![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](#) I solve algorithmic challenges to sharpen my logic. [View my profile]([https://www.codewars.com/users/TU_USUARIO](https://www.codewars.com/users/DavidBassa))
-- *Resuelvo retos de algoritmos para pulir mi lógica. [Ver mi perfil]([https://www.codewars.com/users/TU_USUARIO](https://www.codewars.com/users/DavidBassa))*
+- **CodeWars** I solve algorithmic challenges to sharpen my logic. [View my profile]((https://www.codewars.com/users/DavidBassa))
+- *Resuelvo retos de algoritmos para pulir mi lógica. [Ver mi perfil]((https://www.codewars.com/users/DavidBassa))*
 
 ---
 
