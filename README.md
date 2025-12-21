@@ -9,18 +9,17 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 ### 🛠️ Tech Stack / Tecnologías
 
 **Languages & Logic / Lenguajes y Lógica**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 
 **Frontend & Design / Frontend y Diseño**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3]([https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css&logoColor=white))
+[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
 **Databases & Tools / Bases de Datos y Herramientas**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?style=for-the-badge&logo=datagrip&logoColor=white)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 
 ---
 
@@ -39,6 +38,7 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 ### 🏆 Coding Challenges / Retos de Código
 - **Codewars:** I solve algorithmic challenges to sharpen my logic. [View my profile]([https://www.codewars.com/users/TU_USUARIO](https://www.codewars.com/users/DavidBassa))
 - *Resuelvo retos de algoritmos para pulir mi lógica. [Ver mi perfil]([https://www.codewars.com/users/TU_USUARIO](https://www.codewars.com/users/DavidBassa))*
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?logo=codewars&logoColor=fff)](#)
 
 ---
 
