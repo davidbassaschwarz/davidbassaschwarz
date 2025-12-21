@@ -14,7 +14,7 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 
 **Frontend & Design / Frontend y Diseño**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3]([https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/css-gray?style=for-the-badge&logo=css&logoColor=white))
 
 **Databases & Tools / Bases de Datos y Herramientas**
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -30,9 +30,9 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 - 🌱 **Improving:** Clean Code practices and Database Optimization.
 - 💬 **Ask me about:** My progress in DAM or my latest coding challenges.
 
-* - 🔭 **Aprendiendo actualmente:** Java básico y desarrollo de webs.
-* - 🌱 **Mejorando:** Prácticas de Clean Code y optimización de Bases de Datos.
-* - 💬 **Pregúntame sobre:** Mi progreso en DAM o mis últimos retos de programación.*
+- 🔭 **Aprendiendo actualmente:** Java básico y desarrollo de webs.
+- 🌱 **Mejorando:** Prácticas de Clean Code y optimización de Bases de Datos.
+- 💬 **Pregúntame sobre:** Mi progreso en DAM o mis últimos retos de programación.*
 
 ---
 
