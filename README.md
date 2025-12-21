@@ -29,15 +29,15 @@ Actualmente soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)
 - 🌱 **Improving:** Clean Code practices and Database Optimization.
 - 💬 **Ask me about:** My progress in DAM or my latest coding challenges.
 
-* 🔭 **Aprendiendo actualmente:** Java básico y desarrollo de webs.
-* 🌱 **Mejorando:** Prácticas de Clean Code y optimización de Bases de Datos.
-* 💬 **Pregúntame sobre:** Mi progreso en DAM o mis últimos retos de programación.
+* - 🔭 **Aprendiendo actualmente:** Java básico y desarrollo de webs.
+* - 🌱 **Mejorando:** Prácticas de Clean Code y optimización de Bases de Datos.
+* - 💬 **Pregúntame sobre:** Mi progreso en DAM o mis últimos retos de programación.
 
 ---
 
 ### 🏆 Coding Challenges / Retos de Código
 - **CodeWars:** I solve algorithmic challenges to sharpen my logic. [View my profile](https://www.codewars.com/users/DavidBassa)
-- **CodeWars:** *Resuelvo retos de algoritmos para pulir mi lógica. [Ver mi perfil](https://www.codewars.com/users/DavidBassa)
+- **CodeWars:** Resuelvo retos de algoritmos para pulir mi lógica. [Ver mi perfil](https://www.codewars.com/users/DavidBassa)
 
 ---
 
