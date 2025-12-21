@@ -1,8 +1,8 @@
 # Hi there! I'm David 👋 / ¡Hola! Soy David
 
-I am a **Multiplatform Application Development (DAM)** student at CESUR. I am passionate about software architecture, mobile development, and building efficient solutions. 
+Actualmente soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en CESUR. Me apasiona la arquitectura de software, el desarrollo móvil y crear soluciones eficientes.
 
-*Actualmente soy estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** en CESUR. Me apasiona la arquitectura de software, el desarrollo móvil y crear soluciones eficientes.*
+*I am a **Multiplatform Application Development (DAM)** student at CESUR. I am passionate about software architecture, mobile development, and building efficient solutions.*
 
 ---
 
@@ -29,15 +29,15 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 - 🌱 **Improving:** Clean Code practices and Database Optimization.
 - 💬 **Ask me about:** My progress in DAM or my latest coding challenges.
 
-* - 🔭 **Aprendiendo actualmente:** Java básico y desarrollo de webs.
-* - 🌱 **Mejorando:** Prácticas de Clean Code y optimización de Bases de Datos.
-* - 💬 **Pregúntame sobre:** Mi progreso en DAM o mis últimos retos de programación.*
+* 🔭 **Aprendiendo actualmente:** Java básico y desarrollo de webs.
+* 🌱 **Mejorando:** Prácticas de Clean Code y optimización de Bases de Datos.
+* 💬 **Pregúntame sobre:** Mi progreso en DAM o mis últimos retos de programación.
 
 ---
 
 ### 🏆 Coding Challenges / Retos de Código
-- **CodeWars** I solve algorithmic challenges to sharpen my logic. [View my profile]((https://www.codewars.com/users/DavidBassa))
-- *Resuelvo retos de algoritmos para pulir mi lógica. [Ver mi perfil]((https://www.codewars.com/users/DavidBassa))*
+- **CodeWars:** I solve algorithmic challenges to sharpen my logic. [View my profile]((https://www.codewars.com/users/DavidBassa))
+- **CodeWars:** *Resuelvo retos de algoritmos para pulir mi lógica. [Ver mi perfil]((https://www.codewars.com/users/DavidBassa))
 
 ---
 
