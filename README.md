@@ -23,23 +23,6 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 
 ---
 
-### 🚀 My Focus / En qué me enfoco
-
-- 🔭 **Currently learning:** Basic Java and Web Development.
-  - 🔭 *Aprendiendo actualmente: Java básico y desarrollo de webs.*
-- 🌱 **Improving:** Clean Code practices and Database Optimization.
-  - 🌱 *Mejorando: Prácticas de Clean Code y optimización de Bases de Datos.*
-- 💬 **Ask me about:** My progress in DAM or my latest coding challenges.
-  - 💬 *Pregúntame sobre: Mi progreso en DAM o mis últimos retos de programación.*
-
----
-
-### 🏆 Coding Challenges / Retos de Código
-- **CodeWars:** I solve algorithmic challenges to sharpen my logic. [View my profile](https://www.codewars.com/users/DavidBassa)
-- *Resuelvo retos de algoritmos para pulir mi lógica.* [Ver mi perfil](https://www.codewars.com/users/DavidBassa)
-
----
-
 ### 📈 GitHub Stats / Estadísticas
 
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidbassaschwarz&show_icons=true&theme=radical)
