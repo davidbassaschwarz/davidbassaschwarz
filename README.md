@@ -26,6 +26,7 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 ### 📈 GitHub Stats / Estadísticas
 
 ![David's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=davidbassaschwarz&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidbassaschwarz&layout=compact&theme=radical)
 
 ---
