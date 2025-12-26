@@ -1,4 +1,4 @@
-# Hi there! I'm David 👋 / ¡Hola! Soy David
+# Hi there! I'm David  / ¡Hola! Soy David
 
 I am a **Multiplatform Application Development (DAM)** student at CESUR. I am passionate about software architecture, mobile development, and building efficient solutions.
 
@@ -6,7 +6,7 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 
 ---
 
-### 🛠️ Tech Stack / Tecnologías
+###  Tech Stack / Tecnologías
 
 **Languages & Logic / Lenguajes y Lógica**
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
@@ -23,18 +23,20 @@ I am a **Multiplatform Application Development (DAM)** student at CESUR. I am pa
 
 ---
 
-### 📈 GitHub Stats / Estadísticas
+### GitHub Stats / Estadísticas
 
 ![David's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=davidbassaschwarz&show_icons=true&theme=radical)
+
+<br/>
 
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davidbassaschwarz&layout=compact&theme=radical)
 
 ---
 
-### 📫 Connect with me / Contacto
+###  Contact me / Contacto
 
 - **LinkedIn:** [linkedin.com/in/davidbassaschwarz](https://www.linkedin.com/in/davidbassaschwarz/)
-- **Email:** davidbassaschwarz@icloud.com
+- **Email:** [davidbassaschwarz@icloud.com](mailto:davidbassaschwarz@icloud.com)
 
 ---
-*“Simplicity is the soul of efficiency.”*
+<p align="center"><i>"Simplicity is the soul of efficiency"</i></p>
