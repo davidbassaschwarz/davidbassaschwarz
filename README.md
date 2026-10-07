@@ -41,12 +41,6 @@ Actualmente curso el **segundo año de Desarrollo de Aplicaciones Multiplataform
 
 ---
 
-### Actividad en GitHub / GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=davidbassaschwarz&show_icons=true&theme=radical&hide_border=true&hide_rank=true" alt="Estadísticas de GitHub" width="460" />
-
----
-
 <div align="center">
   <sub><i>"Simplicity is the soul of efficiency"</i></sub>
 </div>
